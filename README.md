@@ -1,3 +1,3 @@
 # TheFootballScript
 
-A project by Nazif & Adlan
+A static website project by Nazif & Adlan
