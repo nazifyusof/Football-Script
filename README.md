@@ -1,2 +1,3 @@
 # TheFootballScript
-# test
+
+A project by Nazif & Adlan
